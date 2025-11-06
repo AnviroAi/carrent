@@ -20,3 +20,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/top_car.png
+    - assets/images/corolla.png
+    - assets/images/mg_hs_phev.png
+    - assets/images/jac_t9.png
+    - assets/images/corolla_white.png
